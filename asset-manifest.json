@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/abstractiartgallery_mockup/static/css/main.ccc90aed.css",
+    "main.js": "/abstractiartgallery_mockup/static/js/main.b3a63ea8.js",
+    "static/js/787.3a4542a1.chunk.js": "/abstractiartgallery_mockup/static/js/787.3a4542a1.chunk.js",
+    "static/media/pexels-phil-kallahar-983200.jpg": "/abstractiartgallery_mockup/static/media/pexels-phil-kallahar-983200.ae1905852359e8381a80.jpg",
+    "static/media/pexels-ave-calvar-martinez-4297437.jpg": "/abstractiartgallery_mockup/static/media/pexels-ave-calvar-martinez-4297437.9357b130741b442a15fa.jpg",
+    "static/media/pexels-rodion-kutsaiev-7976210.jpg": "/abstractiartgallery_mockup/static/media/pexels-rodion-kutsaiev-7976210.2f1e3a11594b0729fb7c.jpg",
+    "index.html": "/abstractiartgallery_mockup/index.html",
+    "main.ccc90aed.css.map": "/abstractiartgallery_mockup/static/css/main.ccc90aed.css.map",
+    "main.b3a63ea8.js.map": "/abstractiartgallery_mockup/static/js/main.b3a63ea8.js.map",
+    "787.3a4542a1.chunk.js.map": "/abstractiartgallery_mockup/static/js/787.3a4542a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc90aed.css",
+    "static/js/main.b3a63ea8.js"
+  ]
+}
